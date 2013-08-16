@@ -1,0 +1,1 @@
+<div class="span12">Selamat datang <strong><?php echo $this->session->userdata('email') ?></strong></div>
